@@ -1,0 +1,21 @@
+.text1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	text-decoration: none;
+	line-height: 11px;
+}
+
+.linktext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+	text-decoration: underline;
+	line-height: 11px;
+}
+a:hover.linktext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #ABB400;
+	text-decoration: underline;
+}
